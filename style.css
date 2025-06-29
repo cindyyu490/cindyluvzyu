@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  color: #222;
+  padding: 2rem;
+}
+
+nav a {
+  margin-right: 1rem;
+  text-decoration: none;
+  color: teal;
+}
+
+h1 {
+  color: #333;
+}
